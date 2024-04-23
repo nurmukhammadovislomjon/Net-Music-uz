@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "143209786348",
+    "project_id": "net-music-uz",
+    "storage_bucket": "net-music-uz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:143209786348:android:e1a224b6e2acbb28002ec9",
+        "android_client_info": {
+          "package_name": "com.example.net_music_uz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBua8uybNe8RproSd0nijoQwryuYnT2OT8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
